@@ -14,23 +14,23 @@ body {
 h1 {
   color: #3CB371;
   font-family:Helvetica;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 h3 {
   color: #2F4F4F;
   font-family: monospace;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 h2{
   color: #2E8B57;
   font-family: Helvetica;
-  font-size: 35Spx;
+  font-size: 35px;
 }
 
 img {
-  border: 2px;
+  border: 4px;
   border-color: #DCDCDC;
   border-style: dashed;
 }
