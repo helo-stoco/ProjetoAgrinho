@@ -13,24 +13,30 @@ body {
 
 h1 {
   color: #3CB371;
-  font-family: sans-serif;
-  font-weight: 200;
+  font-family:Helvetica;
+  font-size: 50px;
 }
 
 h3 {
   color: #2F4F4F;
   font-family: monospace;
-  font-size:larger;
+  font-size: 30px;
 }
 
 h2{
   color: #2E8B57;
-  font-family: sans-serif;
+  font-family: Helvetica;
+  font-size: 35Spx;
 }
 
 img {
   border: 2px;
   border-color: #DCDCDC;
   border-style: dashed;
-  align-items: center;
 }
+
+.center {
+ text-align: center;
+}
+
+
