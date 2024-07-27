@@ -1,5 +1,6 @@
 :root {
-  --cor-fundo: #DCDCDC;
+  --cor-fundo: white; 
+  --cor-detalhes: #DCDCDC;
   --cor-titulo: #3CB371; 
   --cor-secundaria: #2F4F4F;
   --cor-destaque: #00FF7F;
@@ -7,17 +8,26 @@
 }
 
 body {
-  background-color: #DCDCDC;
+  background-color: #ffffff;
 }
 
 h1 {
-  color:#3CB371
+  color: #3CB371;
+  font-family: sans-serif;
 }
 
 h3 {
-  color:#2F4F4F ;
+  color: #2F4F4F;
+  font-family: monospace;
 }
 
 h2{
- color: #2E8B57;
+  color: #2E8B57;
+  font-family: sans-serif;
+}
+
+img {
+  border: 2px;
+  border-color: #DCDCDC;
+  border-style: dashed;
 }
