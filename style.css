@@ -14,11 +14,13 @@ body {
 h1 {
   color: #3CB371;
   font-family: sans-serif;
+  font-weight: 200;
 }
 
 h3 {
   color: #2F4F4F;
   font-family: monospace;
+  font-size: medium;
 }
 
 h2{
@@ -30,4 +32,5 @@ img {
   border: 2px;
   border-color: #DCDCDC;
   border-style: dashed;
+  align-items: center;
 }
