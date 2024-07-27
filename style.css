@@ -1,5 +1,23 @@
 :root {
   --cor-fundo: #DCDCDC;
-  --cor-texto: #3CB371; 
-  --cor-secundaria: 
+  --cor-titulo: #3CB371; 
+  --cor-secundaria: #2F4F4F;
+  --cor-destaque: #00FF7F;
+  --cor-subtitulo: #2E8B57; 
+}
+
+body {
+  background-color: #DCDCDC;
+}
+
+h1 {
+  color:#3CB371
+}
+
+h3 {
+  color:#2F4F4F ;
+}
+
+h2{
+ color: #2E8B57;
 }
