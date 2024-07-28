@@ -39,6 +39,7 @@ img {
  color: var(--cor-destaque);
  font-family: monospace;
  font-size: 15px;
+ text-decoration: dashed;
 }
 
 .centralizarTexto {
