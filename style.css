@@ -36,5 +36,8 @@ img {
   text-align: center;
 }
 
+.destaque {
+ color: var(--cor-destaque);
+}
 
 
