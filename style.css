@@ -33,10 +33,8 @@ img {
   border: 4px;
   border-color: #DCDCDC;
   border-style: dashed;
+  text-align: center;
 }
 
-.center {
- text-align: center;
-}
 
 
